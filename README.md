@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing Microservices Demo with IdentityServer4, Ocelot and Angular SPA in .Net 6](https://medium.com/@zahidcakici/securing-microservices-demo-with-identityserver4-ocelot-and-angular-spa-in-net-6-42dc0ce3f909?source=rss-d9c9eaeee5da------2)
 <!-- BLOG-POST-LIST:END -->
