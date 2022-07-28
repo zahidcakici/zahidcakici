@@ -19,7 +19,7 @@ zahid cakici
 <p>
   <img width="55%" src="https://readme-stats-zahidcakici.vercel.app/api?username=zahidcakici&theme=radical&show_icons=true&count_private=true"/>
   &nbsp &nbsp &nbsp &nbsp
-  <img width="40%" src="https://readme-stats-zahidcakici.vercel.app/api/top-langs?username=zahidcakici&layout=compact&langs_count=8&hide=c%2b%2b,Cmake,Css,Jupyter+Notebook"/>
+  <img width="40%" src="https://readme-stats-zahidcakici.vercel.app/api/top-langs?username=zahidcakici&layout=compact&langs_count=8&hide=Cmake,Css,Jupyter+Notebook"/>
 </p>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
