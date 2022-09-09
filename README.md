@@ -36,6 +36,6 @@ zahidcakici github
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Multitenancy and Finbukcle in .NET](https://medium.com/@zahidcakici/multitenancy-and-finbukcle-in-net-f1d5e7e5f1bf?source=rss-d9c9eaeee5da------2)
+- [Multitenancy and Finbuckle in .NET](https://medium.com/@zahidcakici/multitenancy-and-finbukcle-in-net-f1d5e7e5f1bf?source=rss-d9c9eaeee5da------2)
 - [Securing Microservices Demo with IdentityServer4, Ocelot and Angular SPA in .Net 6](https://medium.com/@zahidcakici/securing-microservices-demo-with-identityserver4-ocelot-and-angular-spa-in-net-6-42dc0ce3f909?source=rss-d9c9eaeee5da------2)
 <!-- BLOG-POST-LIST:END -->
