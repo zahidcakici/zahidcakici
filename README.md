@@ -36,6 +36,7 @@ zahidcakici github
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go Fiber JWT Auth](https://medium.com/code-beyond/go-fiber-jwt-auth-eab51a7e2129?source=rss-d9c9eaeee5da------2)
 - [What is Dependency Injection Container?](https://medium.com/@zahidcakici/what-is-dependency-injection-container-97c297fbcc79?source=rss-d9c9eaeee5da------2)
 - [The Most Powerful Weapon for a Developer](https://medium.com/@zahidcakici/the-most-powerful-weapon-for-a-developer-245ff0ced50d?source=rss-d9c9eaeee5da------2)
 - [Multitenancy and Finbuckle in .NET](https://medium.com/@zahidcakici/multitenancy-and-finbukcle-in-net-f1d5e7e5f1bf?source=rss-d9c9eaeee5da------2)
