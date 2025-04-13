@@ -38,9 +38,9 @@ zahidcakici github
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Event-Driven Microservices with Outbox Pattern &lpar;Part2&rpar;: Implementation](https://medium.com/code-beyond/mastering-event-driven-microservices-with-outbox-pattern-part2-implementation-64b69670651f?source=rss-d9c9eaeee5da------2)
 - [Mastering Event-Driven Microservices with Outbox Pattern](https://medium.com/code-beyond/mastering-event-driven-microservices-with-outbox-pattern-f84bc8ad24bc?source=rss-d9c9eaeee5da------2)
 - [What is Middleware?](https://medium.com/code-beyond/what-is-middleware-87a5bb68e581?source=rss-d9c9eaeee5da------2)
 - [Dockerizing Golang Apps: A Step-by-Step Guide to Reducing Docker Image Size](https://medium.com/code-beyond/dockerizing-golang-apps-a-step-by-step-guide-to-reducing-docker-image-size-306898e7359e?source=rss-d9c9eaeee5da------2)
 - [Go Fiber JWT Auth](https://medium.com/code-beyond/go-fiber-jwt-auth-eab51a7e2129?source=rss-d9c9eaeee5da------2)
-- [What is Dependency Injection Container?](https://medium.com/@zahidcakici/what-is-dependency-injection-container-97c297fbcc79?source=rss-d9c9eaeee5da------2)
 <!-- BLOG-POST-LIST:END -->
