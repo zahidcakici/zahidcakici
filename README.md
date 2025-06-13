@@ -38,7 +38,7 @@ zahidcakici github
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [API Gateway Performance Benchmark](https://medium.com/@zahidcakici/api-gateway-performance-benchmark-407500194c76?source=rss-d9c9eaeee5da------2)
+- [API Gateway Performance Benchmark](https://medium.com/code-beyond/api-gateway-performance-benchmark-407500194c76?source=rss-d9c9eaeee5da------2)
 - [Mastering Event-Driven Microservices with Outbox Pattern &lpar;Part2&rpar;: Implementation](https://medium.com/code-beyond/mastering-event-driven-microservices-with-outbox-pattern-part2-implementation-64b69670651f?source=rss-d9c9eaeee5da------2)
 - [Mastering Event-Driven Microservices with Outbox Pattern](https://medium.com/code-beyond/mastering-event-driven-microservices-with-outbox-pattern-f84bc8ad24bc?source=rss-d9c9eaeee5da------2)
 - [What is Middleware?](https://medium.com/code-beyond/what-is-middleware-87a5bb68e581?source=rss-d9c9eaeee5da------2)
