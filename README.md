@@ -21,7 +21,7 @@ zahidcakici github
 <p>
   <img width="55%" src="https://readme-stats-zahidcakici.vercel.app/api?username=zahidcakici&theme=radical&show_icons=true&count_private=true"/>
   &nbsp &nbsp &nbsp &nbsp
-  <img width="40%" src="https://readme-stats-zahidcakici.vercel.app/api/top-langs?username=zahidcakici&layout=compact&langs_count=8&exclude_repo=my-vercel,og-image-generator,Finbuckle.MultiTenant&hide=html,Jupyter Notebook"/>
+  <img width="40%" src="https://readme-stats-zahidcakici.vercel.app/api/top-langs?username=zahidcakici&layout=compact&langs_count=8&exclude_repo=my-vercel,og-image-generator,Finbuckle.MultiTenant&hide=html,JupyterNotebook"/>
 </p>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
