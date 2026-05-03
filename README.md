@@ -38,9 +38,9 @@ zahidcakici github
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Deep Dive into MongoDB Transactions](https://medium.com/@zahidcakici/a-deep-dive-into-mongodb-transactions-e680b106188c?source=rss-d9c9eaeee5da------2)
 - [Local AI Coding with Opencode](https://medium.com/@zahidcakici/local-ai-coding-with-opencode-ae781018a3ab?source=rss-d9c9eaeee5da------2)
 - [API Gateway Performance Benchmark](https://medium.com/code-beyond/api-gateway-performance-benchmark-407500194c76?source=rss-d9c9eaeee5da------2)
 - [Mastering Event-Driven Microservices with Outbox Pattern &lpar;Part2&rpar;: Implementation](https://medium.com/code-beyond/mastering-event-driven-microservices-with-outbox-pattern-part2-implementation-64b69670651f?source=rss-d9c9eaeee5da------2)
 - [Mastering Event-Driven Microservices with Outbox Pattern](https://medium.com/code-beyond/mastering-event-driven-microservices-with-outbox-pattern-f84bc8ad24bc?source=rss-d9c9eaeee5da------2)
-- [What is Middleware?](https://medium.com/code-beyond/what-is-middleware-87a5bb68e581?source=rss-d9c9eaeee5da------2)
 <!-- BLOG-POST-LIST:END -->
