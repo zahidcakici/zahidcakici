@@ -38,9 +38,9 @@ zahidcakici github
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [API Gateway vs BFF: Two Patterns Everyone Confuses](https://medium.com/code-beyond/api-gateway-vs-bff-two-patterns-everyone-confuses-7044f3f32c37?source=rss-d9c9eaeee5da------2)
 - [A Deep Dive into MongoDB Transactions](https://medium.com/code-beyond/a-deep-dive-into-mongodb-transactions-e680b106188c?source=rss-d9c9eaeee5da------2)
 - [Local AI Coding with Opencode](https://medium.com/code-beyond/local-ai-coding-with-opencode-ae781018a3ab?source=rss-d9c9eaeee5da------2)
 - [API Gateway Performance Benchmark](https://medium.com/code-beyond/api-gateway-performance-benchmark-407500194c76?source=rss-d9c9eaeee5da------2)
 - [Mastering Event-Driven Microservices with Outbox Pattern &lpar;Part2&rpar;: Implementation](https://medium.com/code-beyond/mastering-event-driven-microservices-with-outbox-pattern-part2-implementation-64b69670651f?source=rss-d9c9eaeee5da------2)
-- [Mastering Event-Driven Microservices with Outbox Pattern](https://medium.com/code-beyond/mastering-event-driven-microservices-with-outbox-pattern-f84bc8ad24bc?source=rss-d9c9eaeee5da------2)
 <!-- BLOG-POST-LIST:END -->
